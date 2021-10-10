@@ -7,3 +7,10 @@ int main()
 	std::cout << "I just added this from the command line repo";
 	return 0;
 }
+
+class Calculator
+{
+public:
+
+private:
+};
